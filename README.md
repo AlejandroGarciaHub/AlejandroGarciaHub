@@ -18,3 +18,8 @@ I'm Daru.
 <p align='center'>For enquiries, reach out @ daru@smolgaming.com or over on <a href="https://twitter.com/Darukeru">Twitter</a>.</p>
 
 <h1 align='center'><i>See yaaaa'!</i></h1>
+
+<hr>
+<p align='center'>
+<a href='https://ko-fi.com/J3J37YPRE' target='_blank'><img height='72' style='border:0px;height:72px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
