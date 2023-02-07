@@ -3,7 +3,7 @@ MG08/MG08 is a ✨ special ✨ repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Social banner for Daru](https://raw.githubusercontent.com/MG08/MG08/main/assets/banner_profile_opt.gif)](https://smolgaming.com)
+[![Social banner for Daru](https://raw.githubusercontent.com/AlejandroGarciaHub/AlejandroGarciaHub/main/assets/banner_profile_opt.gif)](https://smolgaming.com)
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
